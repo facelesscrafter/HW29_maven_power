@@ -1,0 +1,107 @@
+[
+  {
+    "id": "0001-high",
+    "fullName": "Московский Выдуманный Университет",
+    "shortName": "МВУ",
+    "yearOfFoundation": 1990,
+    "mainProfile": "PHYSICS"
+  },
+  {
+    "id": "0002-high",
+    "fullName": "Московский Придуманный Институт",
+    "shortName": "МПИ",
+    "yearOfFoundation": 1987,
+    "mainProfile": "PHYSICS"
+  },
+  {
+    "id": "0003-high",
+    "fullName": "Московский Государственный Медицинский Университет",
+    "shortName": "МГМУ",
+    "yearOfFoundation": 1960,
+    "mainProfile": "MEDICINE"
+  },
+  {
+    "id": "0004-high",
+    "fullName": "Тамбовский Университет Медицины",
+    "shortName": "ТУМ",
+    "yearOfFoundation": 1995,
+    "mainProfile": "MEDICINE"
+  },
+  {
+    "id": "0005-high",
+    "fullName": "Самарский Медицинский Институт",
+    "shortName": "СМИ",
+    "yearOfFoundation": 1936,
+    "mainProfile": "MEDICINE"
+  },
+  {
+    "id": "0006-high",
+    "fullName": "Воронежский Литературно-Переводческий Университет",
+    "shortName": "ВЛПУ",
+    "yearOfFoundation": 2003,
+    "mainProfile": "LINGUISTICS"
+  },
+  {
+    "id": "0007-high",
+    "fullName": "Казанский Университет Вычислений",
+    "shortName": "КУВ",
+    "yearOfFoundation": 1989,
+    "mainProfile": "MATHEMATICS"
+  },
+  {
+    "id": "0008-high",
+    "fullName": "Национальный исследовательский ядерный университет ",
+    "shortName": "НИЯУ МИФИ",
+    "yearOfFoundation": 1942,
+    "mainProfile": "PHYSICS"
+  },
+  {
+    "id": "0009-high",
+    "fullName": "Сеченовский Университет",
+    "shortName": "ФГАОУ ВО Первый МГМУ им. И.М. Сеченова",
+    "yearOfFoundation": 1758,
+    "mainProfile": "MEDICINE"
+  },
+  {
+    "id": "0010-high",
+    "fullName": "Национальный исследовательский университет \"Высшая школа экономики\"",
+    "shortName": "НИУ ВШЭ",
+    "yearOfFoundation": 1992,
+    "mainProfile": "ONEMOREMACKDONALDSTAFF"
+  },
+  {
+    "id": "0011-high",
+    "fullName": "Национальный исследовательский Томский политехнический университет",
+    "shortName": "НИИ ТПУ",
+    "yearOfFoundation": 1896,
+    "mainProfile": "AWESOMEGUYS"
+  },
+  {
+    "id": "0012-high",
+    "fullName": "Московский государственный университет",
+    "shortName": "МГУ",
+    "yearOfFoundation": 1755,
+    "mainProfile": "MACKDONALDSTAFF"
+  },
+  {
+    "id": "0013-high",
+    "fullName": "Московкий нулевой университет",
+    "shortName": "МНУ",
+    "yearOfFoundation": 2023,
+    "mainProfile": "UNKNOWN"
+  },
+  {
+    "id": "NONE_ID",
+    "fullName": "Московкий нулевой университет",
+    "shortName": "МНУ",
+    "yearOfFoundation": 2023,
+    "mainProfile": "MACKDONALDSTAFF"
+  },
+  {
+    "id": "NONE_ID",
+    "fullName": "Неизвестный университет",
+    "shortName": "НУ",
+    "yearOfFoundation": 0,
+    "mainProfile": "MACKDONALDSTAFF"
+  }
+]

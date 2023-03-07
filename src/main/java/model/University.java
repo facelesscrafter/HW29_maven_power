@@ -4,7 +4,6 @@ import com.google.gson.annotations.SerializedName;
 import enums.StudyProfile;
 
 import javax.xml.bind.annotation.*;
-
 @XmlAccessorType(XmlAccessType.FIELD)
 //@XmlRootElement
 public class University {

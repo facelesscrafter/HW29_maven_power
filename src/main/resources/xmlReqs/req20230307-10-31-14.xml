@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <studentsInfo>
+        <studentEntry>
+            <studentName>Алексеев С. В.</studentName>
+            <universityId>0001-high</universityId>
+            <avgScore>5.0</avgScore>
+        </studentEntry>
+        <studentEntry>
+            <studentName>Бьерн Страуструп</studentName>
+            <universityId>0011-high</universityId>
+            <avgScore>5.0</avgScore>
+        </studentEntry>
+        <studentEntry>
+            <studentName>Васильев В. П.</studentName>
+            <universityId>0001-high</universityId>
+            <avgScore>4.7</avgScore>
+        </studentEntry>
+        <studentEntry>
+            <studentName>Витальев В. А.</studentName>
+            <universityId>0001-high</universityId>
+            <avgScore>4.0</avgScore>
+        </studentEntry>
+        <studentEntry>
+            <studentName>Грегори Хаус</studentName>
+            <universityId>0009-high</universityId>
+            <avgScore>5.0</avgScore>
+        </studentEntry>
+        <studentEntry>
+            <studentName>Гуманитарий Гуманитариев</studentName>
+            <universityId>0012-high</universityId>
+            <avgScore>3.0</avgScore>
+        </studentEntry>
+        <studentEntry>
+            <studentName>Иванов А. Г.</studentName>
+            <universityId>0001-high</universityId>
+            <avgScore>4.8</avgScore>
+        </studentEntry>
+        <studentEntry>
+            <studentName>Иванов И. А.</studentName>
+            <universityId>0002-high</universityId>
+            <avgScore>4.0</avgScore>
+        </studentEntry>
+        <studentEntry>
+            <studentName>Игнатьев М. М.</studentName>
+            <universityId>0003-high</universityId>
+            <avgScore>4.3</avgScore>
+        </studentEntry>
+        <studentEntry>
+            <studentName>Козлов М. В.</studentName>
+            <universityId>0002-high</universityId>
+            <avgScore>4.6</avgScore>
+        </studentEntry>
+        <studentEntry>
+            <studentName>Неизвестный студент</studentName>
+            <universityId>NONE_ID</universityId>
+            <avgScore>0.0</avgScore>
+        </studentEntry>
+        <studentEntry>
+            <studentName>Неизвестный студент</studentName>
+            <universityId>NONE_ID</universityId>
+            <avgScore>5.0</avgScore>
+        </studentEntry>
+        <studentEntry>
+            <studentName>Остап Бендер</studentName>
+            <universityId>0010-high</universityId>
+            <avgScore>5.0</avgScore>
+        </studentEntry>
+        <studentEntry>
+            <studentName>Петров П. А.</studentName>
+            <universityId>0001-high</universityId>
+            <avgScore>5.0</avgScore>
+        </studentEntry>
+        <studentEntry>
+            <studentName>Петров Р.Д.</studentName>
+            <universityId>NONE_ID</universityId>
+            <avgScore>2.9</avgScore>
+        </studentEntry>
+        <studentEntry>
+            <studentName>Сидоров Е. Г.</studentName>
+            <universityId>0004-high</universityId>
+            <avgScore>3.9</avgScore>
+        </studentEntry>
+        <studentEntry>
+            <studentName>Соколов В. В.</studentName>
+            <universityId>0004-high</universityId>
+            <avgScore>4.8</avgScore>
+        </studentEntry>
+        <studentEntry>
+            <studentName>Стивен Хокинг</studentName>
+            <universityId>0008-high</universityId>
+            <avgScore>5.0</avgScore>
+        </studentEntry>
+        <studentEntry>
+            <studentName>Фёдоров А. И.</studentName>
+            <universityId>0002-high</universityId>
+            <avgScore>4.2</avgScore>
+        </studentEntry>
+    </studentsInfo>
+    <universitiesInfo>
+        <universityEntry>
+            <universityId>0001-high</universityId>
+            <universityName>Московский Выдуманный Университет</universityName>
+            <universityProfile>PHYSICS</universityProfile>
+        </universityEntry>
+        <universityEntry>
+            <universityId>0002-high</universityId>
+            <universityName>Московский Придуманный Институт</universityName>
+            <universityProfile>PHYSICS</universityProfile>
+        </universityEntry>
+        <universityEntry>
+            <universityId>0003-high</universityId>
+            <universityName>Московский Государственный Медицинский Университет</universityName>
+            <universityProfile>MEDICINE</universityProfile>
+        </universityEntry>
+        <universityEntry>
+            <universityId>0004-high</universityId>
+            <universityName>Тамбовский Университет Медицины</universityName>
+            <universityProfile>MEDICINE</universityProfile>
+        </universityEntry>
+        <universityEntry>
+            <universityId>0005-high</universityId>
+            <universityName>Самарский Медицинский Институт</universityName>
+            <universityProfile>MEDICINE</universityProfile>
+        </universityEntry>
+        <universityEntry>
+            <universityId>0006-high</universityId>
+            <universityName>Воронежский Литературно-Переводческий Университет</universityName>
+            <universityProfile>LINGUISTICS</universityProfile>
+        </universityEntry>
+        <universityEntry>
+            <universityId>0007-high</universityId>
+            <universityName>Казанский Университет Вычислений</universityName>
+            <universityProfile>MATHEMATICS</universityProfile>
+        </universityEntry>
+        <universityEntry>
+            <universityId>0008-high</universityId>
+            <universityName>Национальный исследовательский ядерный университет </universityName>
+            <universityProfile>PHYSICS</universityProfile>
+        </universityEntry>
+        <universityEntry>
+            <universityId>0009-high</universityId>
+            <universityName>Сеченовский Университет</universityName>
+            <universityProfile>MEDICINE</universityProfile>
+        </universityEntry>
+        <universityEntry>
+            <universityId>0010-high</universityId>
+            <universityName>Национальный исследовательский университет "Высшая школа экономики"</universityName>
+            <universityProfile>ONEMOREMACKDONALDSTAFF</universityProfile>
+        </universityEntry>
+        <universityEntry>
+            <universityId>0011-high</universityId>
+            <universityName>Национальный исследовательский Томский политехнический университет</universityName>
+            <universityProfile>AWESOMEGUYS</universityProfile>
+        </universityEntry>
+        <universityEntry>
+            <universityId>0012-high</universityId>
+            <universityName>Московский государственный университет</universityName>
+            <universityProfile>MACKDONALDSTAFF</universityProfile>
+        </universityEntry>
+        <universityEntry>
+            <universityId>0013-high</universityId>
+            <universityName>Московкий нулевой университет</universityName>
+            <universityProfile>UNKNOWN</universityProfile>
+        </universityEntry>
+        <universityEntry>
+            <universityId>NONE_ID</universityId>
+            <universityName>Московкий нулевой университет</universityName>
+            <universityProfile>MACKDONALDSTAFF</universityProfile>
+        </universityEntry>
+        <universityEntry>
+            <universityId>NONE_ID</universityId>
+            <universityName>Неизвестный университет</universityName>
+            <universityProfile>MACKDONALDSTAFF</universityProfile>
+        </universityEntry>
+    </universitiesInfo>
+    <statisticalInfo>
+        <statisticsEntry>
+            <universityProfile>PHYSICS</universityProfile>
+            <avgScore>4.59</avgScore>
+        </statisticsEntry>
+        <statisticsEntry>
+            <universityProfile>MEDICINE</universityProfile>
+            <avgScore>4.5</avgScore>
+        </statisticsEntry>
+        <statisticsEntry>
+            <universityProfile>LINGUISTICS</universityProfile>
+            <avgScore>0.0</avgScore>
+        </statisticsEntry>
+        <statisticsEntry>
+            <universityProfile>MATHEMATICS</universityProfile>
+            <avgScore>0.0</avgScore>
+        </statisticsEntry>
+        <statisticsEntry>
+            <universityProfile>ONEMOREMACKDONALDSTAFF</universityProfile>
+            <avgScore>5.0</avgScore>
+        </statisticsEntry>
+        <statisticsEntry>
+            <universityProfile>AWESOMEGUYS</universityProfile>
+            <avgScore>5.0</avgScore>
+        </statisticsEntry>
+        <statisticsEntry>
+            <universityProfile>MACKDONALDSTAFF</universityProfile>
+            <avgScore>2.73</avgScore>
+        </statisticsEntry>
+        <statisticsEntry>
+            <universityProfile>UNKNOWN</universityProfile>
+            <avgScore>0.0</avgScore>
+        </statisticsEntry>
+    </statisticalInfo>
+    <processedAt>2023-03-07T10:31:14.148+03:00</processedAt>
+</root>

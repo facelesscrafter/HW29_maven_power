@@ -4,21 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="601a4d50-e203-4d40-870d-1aa7d1cf5271" name="Changes" comment="27.8 и практическая неделя">
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/excel/XlsWriter.java" afterDir="false" />
+    <list default="true" id="601a4d50-e203-4d40-870d-1aa7d1cf5271" name="Changes" comment="28 и 29">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dependency-reduced-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dependency-reduced-pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/enums/StudyProfile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/enums/StudyProfile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework27/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework29/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ioExcel/ReaderExcel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/excel/XlsReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ioExcel/XlsWriter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/Statistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Statistics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homework29/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework29/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/xml/AllData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/xml/AllData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/xml/XmlWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/xml/XmlWriter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/model/University.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/University.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/utilities/ComparatorU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utilities/ComparatorUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/utilities/JsonUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utilities/JsonUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/Stat.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Stat.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/jsonReqs/statistics20230307-08-36-49.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/jsonReqs/students20230307-08-36-49.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/jsonReqs/universities20230307-08-36-49.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/log.0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log.0.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/logging.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/logging.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/xmlReqs/req20230307-08-36-49.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,18 +45,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/master/IdeaProjects/GrepManager/src/main/java/grepmanager/localchanges/DeleteOldInfo.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/master/IdeaProjects/GrepManager/src/main/java/grepmanager/localchanges/DeleteOldInfo.java",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "MavenSettings"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
@@ -111,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676129709031</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="28 и 29">
+      <created>1678167707752</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678167707752</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -127,6 +133,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="27.8 и практическая неделя" />
-    <option name="LAST_COMMIT_MESSAGE" value="27.8 и практическая неделя" />
+    <MESSAGE value="28 и 29" />
+    <option name="LAST_COMMIT_MESSAGE" value="28 и 29" />
   </component>
 </project>

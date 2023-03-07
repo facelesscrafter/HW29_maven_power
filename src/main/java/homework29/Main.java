@@ -18,6 +18,7 @@ import java.util.List;
 import java.util.logging.Level;
 import java.util.logging.LogManager;
 import java.util.logging.Logger;
+import java.nio.charset.Charset;
 
 
 public class Main {
@@ -27,6 +28,7 @@ public class Main {
     private static final String logProperties="src/main/resources/logging.properties";
     //      private static final String xlsForRead="src/main/resources/universityInfo_old.xlsx"; //оригинальный файл
     public static void main(String[] args)  {
+
         try(FileInputStream ins = new FileInputStream(logProperties)){
             LogManager.getLogManager().readConfiguration(ins);
         }catch (Exception ignore){
