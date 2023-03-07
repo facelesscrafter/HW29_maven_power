@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-07T08:36:48</date>
+  <millis>1678167408309</millis>
+  <sequence>0</sequence>
+  <logger>homework29.Main</logger>
+  <level>INFO</level>
+  <class>homework29.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Старт работы приложения</message>
+</record>
+<record>
+  <date>2023-03-07T08:36:48</date>
+  <millis>1678167408393</millis>
+  <sequence>1</sequence>
+  <logger>io.excel.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.excel.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Получаем информацию об университетах</message>
+</record>
+<record>
+  <date>2023-03-07T08:36:49</date>
+  <millis>1678167409058</millis>
+  <sequence>2</sequence>
+  <logger>io.excel.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.excel.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Данные об университетах успешно прочитаны</message>
+</record>
+<record>
+  <date>2023-03-07T08:36:49</date>
+  <millis>1678167409058</millis>
+  <sequence>3</sequence>
+  <logger>io.excel.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.excel.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Получаем информацию о студентах</message>
+</record>
+<record>
+  <date>2023-03-07T08:36:49</date>
+  <millis>1678167409111</millis>
+  <sequence>4</sequence>
+  <logger>io.excel.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.excel.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Данные о студентах успешно прочитаны</message>
+</record>
+<record>
+  <date>2023-03-07T08:36:49</date>
+  <millis>1678167409338</millis>
+  <sequence>5</sequence>
+  <logger>io.excel.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.excel.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Сохранение статистики</message>
+</record>
+<record>
+  <date>2023-03-07T08:36:49</date>
+  <millis>1678167409396</millis>
+  <sequence>6</sequence>
+  <logger>io.excel.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.excel.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Статистика успешно записана</message>
+</record>
+<record>
+  <date>2023-03-07T08:36:49</date>
+  <millis>1678167409397</millis>
+  <sequence>7</sequence>
+  <logger>io.xml.XmlWriter</logger>
+  <level>INFO</level>
+  <class>io.xml.XmlWriter</class>
+  <method>writeToXML</method>
+  <thread>1</thread>
+  <message>Начат маршаллинг входных параметров</message>
+</record>
+<record>
+  <date>2023-03-07T08:36:49</date>
+  <millis>1678167409399</millis>
+  <sequence>8</sequence>
+  <logger>io.xml.XmlWriter</logger>
+  <level>INFO</level>
+  <class>io.xml.XmlWriter</class>
+  <method>writeToXML</method>
+  <thread>1</thread>
+  <message>Директория src/main/resources/xmlReqs создана</message>
+</record>
+<record>
+  <date>2023-03-07T08:36:49</date>
+  <millis>1678167409480</millis>
+  <sequence>9</sequence>
+  <logger>io.xml.XmlWriter</logger>
+  <level>INFO</level>
+  <class>io.xml.XmlWriter</class>
+  <method>writeToXML</method>
+  <thread>1</thread>
+  <message>XML сформирован. Находится в директории src/main/resources/xmlReqs</message>
+</record>
+<record>
+  <date>2023-03-07T08:36:49</date>
+  <millis>1678167409482</millis>
+  <sequence>10</sequence>
+  <logger>io.json.JsonWriter</logger>
+  <level>INFO</level>
+  <class>io.json.JsonWriter</class>
+  <method>writeAllToJSON</method>
+  <thread>1</thread>
+  <message>Начата запись данных, преорбразованных в json-формат</message>
+</record>
+<record>
+  <date>2023-03-07T08:36:49</date>
+  <millis>1678167409483</millis>
+  <sequence>11</sequence>
+  <logger>io.json.JsonWriter</logger>
+  <level>INFO</level>
+  <class>io.json.JsonWriter</class>
+  <method>writeAllToJSON</method>
+  <thread>1</thread>
+  <message>Директория src/main/resources/jsonReqs создана</message>
+</record>
+<record>
+  <date>2023-03-07T08:36:49</date>
+  <millis>1678167409540</millis>
+  <sequence>12</sequence>
+  <logger>io.json.JsonWriter</logger>
+  <level>INFO</level>
+  <class>io.json.JsonWriter</class>
+  <method>writeList</method>
+  <thread>1</thread>
+  <message>students: Данные успешно записаны, находится в директории src/main/resources/jsonReqs</message>
+</record>
+<record>
+  <date>2023-03-07T08:36:49</date>
+  <millis>1678167409544</millis>
+  <sequence>13</sequence>
+  <logger>io.json.JsonWriter</logger>
+  <level>INFO</level>
+  <class>io.json.JsonWriter</class>
+  <method>writeList</method>
+  <thread>1</thread>
+  <message>universities: Данные успешно записаны, находится в директории src/main/resources/jsonReqs</message>
+</record>
+<record>
+  <date>2023-03-07T08:36:49</date>
+  <millis>1678167409551</millis>
+  <sequence>14</sequence>
+  <logger>io.json.JsonWriter</logger>
+  <level>INFO</level>
+  <class>io.json.JsonWriter</class>
+  <method>writeList</method>
+  <thread>1</thread>
+  <message>statistics: Данные успешно записаны, находится в директории src/main/resources/jsonReqs</message>
+</record>
+<record>
+  <date>2023-03-07T08:36:49</date>
+  <millis>1678167409552</millis>
+  <sequence>15</sequence>
+  <logger>homework29.Main</logger>
+  <level>INFO</level>
+  <class>homework29.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Программа завершена</message>
+</record>
+</log>

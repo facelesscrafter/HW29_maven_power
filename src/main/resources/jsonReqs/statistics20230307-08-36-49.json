@@ -1,0 +1,58 @@
+[
+  {
+    "mainProfile": "PHYSICS",
+    "avgExamScore": 4.59,
+    "studentsCount": 9,
+    "universitiesCount": 3,
+    "universitiesNames": "[Московский Выдуманный Университет, Московский Придуманный Институт, Национальный исследовательский ядерный университет ]"
+  },
+  {
+    "mainProfile": "MEDICINE",
+    "avgExamScore": 4.5,
+    "studentsCount": 4,
+    "universitiesCount": 4,
+    "universitiesNames": "[Московский Государственный Медицинский Университет, Тамбовский Университет Медицины, Самарский Медицинский Институт, Сеченовский Университет]"
+  },
+  {
+    "mainProfile": "LINGUISTICS",
+    "avgExamScore": 0.0,
+    "studentsCount": 0,
+    "universitiesCount": 1,
+    "universitiesNames": "[Воронежский Литературно-Переводческий Университет]"
+  },
+  {
+    "mainProfile": "MATHEMATICS",
+    "avgExamScore": 0.0,
+    "studentsCount": 0,
+    "universitiesCount": 1,
+    "universitiesNames": "[Казанский Университет Вычислений]"
+  },
+  {
+    "mainProfile": "ONEMOREMACKDONALDSTAFF",
+    "avgExamScore": 5.0,
+    "studentsCount": 1,
+    "universitiesCount": 1,
+    "universitiesNames": "[Национальный исследовательский университет \"Высшая школа экономики\"]"
+  },
+  {
+    "mainProfile": "AWESOMEGUYS",
+    "avgExamScore": 5.0,
+    "studentsCount": 1,
+    "universitiesCount": 1,
+    "universitiesNames": "[Национальный исследовательский Томский политехнический университет]"
+  },
+  {
+    "mainProfile": "MACKDONALDSTAFF",
+    "avgExamScore": 2.73,
+    "studentsCount": 4,
+    "universitiesCount": 3,
+    "universitiesNames": "[Московский государственный университет, Московкий нулевой университет, Неизвестный университет]"
+  },
+  {
+    "mainProfile": "UNKNOWN",
+    "avgExamScore": 0.0,
+    "studentsCount": 0,
+    "universitiesCount": 1,
+    "universitiesNames": "[Московкий нулевой университет]"
+  }
+]

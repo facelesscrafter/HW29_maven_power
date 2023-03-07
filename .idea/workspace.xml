@@ -5,7 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="601a4d50-e203-4d40-870d-1aa7d1cf5271" name="Changes" comment="27.8 и практическая неделя">
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/excel/XlsWriter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dependency-reduced-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dependency-reduced-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/enums/StudyProfile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/enums/StudyProfile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homework27/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework29/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ioExcel/ReaderExcel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/excel/XlsReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ioExcel/XlsWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Statistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Statistics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/University.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/University.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utilities/ComparatorU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utilities/ComparatorUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utilities/JsonUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utilities/JsonUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Stat.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Stat.xlsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,29 +46,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/master/IdeaProjects/GrepManager/src/main/java/grepmanager/localchanges/DeleteOldInfo.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JAR Application.project-1.0.jar">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework27.Main" />
+      <option name="MAIN_CLASS_NAME" value="homework29.Main" />
       <module name="project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework27.*" />
+          <option name="PATTERN" value="homework29.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,8 +83,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JAR Application.project-1.0.jar" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="JAR Application.project-1.0.jar" />
       </list>
     </recent_temporary>
   </component>
@@ -90,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676129443943</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="27.8 и практическая неделя">
+      <created>1676129709031</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676129709031</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

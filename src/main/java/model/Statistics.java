@@ -1,12 +1,28 @@
 package model;
 
+import com.google.gson.annotations.SerializedName;
 import enums.StudyProfile;
 
+import javax.xml.bind.annotation.*;
+
+@XmlType(name = "statisticsEntry")
+@XmlAccessorType(XmlAccessType.FIELD)
+//@XmlRootElement
 public class Statistics {
+    @SerializedName("mainProfile")
+    @XmlElement(name = "universityProfile")
     private StudyProfile mainProfile;
+    @SerializedName("avgExamScore")
+    @XmlElement(name = "avgScore")
     private float avgExamScore;
+    @SerializedName("studentsCount")
+    @XmlTransient
     private int studentsCount;
+    @SerializedName("universitiesCount")
+    @XmlTransient
     private int universitiesCount;
+    @SerializedName("universitiesNames")
+    @XmlTransient
     private String universitiesNames;
 
     public Statistics(StudyProfile mainProfile, float avgExamScore, int studentsCount, int universitiesCount, String universitiesNames) {

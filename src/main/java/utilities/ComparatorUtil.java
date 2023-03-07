@@ -6,9 +6,9 @@ import enums.StudentComparatorType;
 import enums.UniversityComparatorType;
 
 
-public class ComparatorU {
+public class ComparatorUtil {
 
-    private ComparatorU() {
+    private ComparatorUtil() {
     }
     public static StudentComparator getStudentComparatorType(StudentComparatorType type){
         switch (type){

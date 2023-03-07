@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-05T03:39:45</date>
+  <millis>1677976785970</millis>
+  <sequence>0</sequence>
+  <logger>homework29.Main</logger>
+  <level>INFO</level>
+  <class>homework29.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application started, Logger configured</message>
+</record>
+</log>

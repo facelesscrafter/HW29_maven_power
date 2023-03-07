@@ -13,7 +13,7 @@ public enum StudyProfile {
     JURISPRUDENCE("Юриспруденция"),
     LINGUISTICS("Лингвистика"),
     NONEVALUE("Не указано направление"),
-    UNKNOWN("Профиль, не извесный системе");
+    UNKNOWN("Профиль, не известный системе");
     private final String profileName;
 
     private StudyProfile(String profileName) {
